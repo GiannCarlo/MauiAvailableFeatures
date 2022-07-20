@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jHpYaKUme7WEGC2hqjm0YigunzMFS0nRwXImCgCYoBufOyIindj1kJOKL8Rmm3WRt5J1XrnAAVd/QuRGq8pkqA==",
+  "dgSpecHash": "BQEX/YESTyFIEBrij0H3toGVbYL52uYEF70FgBhkVxaNOmIFzAFQDZhIIxFyWNwaa+hF5deZ0vT75IhlnBi4aQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GiannCarlo.camilo\\source\\repos\\mauiFeatures\\mauiFeatures.csproj",
+  "projectFilePath": "C:\\Users\\GiannCarlo.camilo\\Documents\\MauiProjects\\MauiAvailableFeatures\\mauiFeatures.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GiannCarlo.camilo\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\GiannCarlo.camilo\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
