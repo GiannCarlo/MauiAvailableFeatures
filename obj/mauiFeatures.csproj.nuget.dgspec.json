@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GiannCarlo.camilo\\source\\repos\\mauiFeatures\\mauiFeatures.csproj": {}
+    "C:\\Users\\GiannCarlo.camilo\\Documents\\MauiProjects\\MauiAvailableFeatures\\mauiFeatures.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GiannCarlo.camilo\\source\\repos\\mauiFeatures\\mauiFeatures.csproj": {
+    "C:\\Users\\GiannCarlo.camilo\\Documents\\MauiProjects\\MauiAvailableFeatures\\mauiFeatures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GiannCarlo.camilo\\source\\repos\\mauiFeatures\\mauiFeatures.csproj",
+        "projectUniqueName": "C:\\Users\\GiannCarlo.camilo\\Documents\\MauiProjects\\MauiAvailableFeatures\\mauiFeatures.csproj",
         "projectName": "mauiFeatures",
-        "projectPath": "C:\\Users\\GiannCarlo.camilo\\source\\repos\\mauiFeatures\\mauiFeatures.csproj",
+        "projectPath": "C:\\Users\\GiannCarlo.camilo\\Documents\\MauiProjects\\MauiAvailableFeatures\\mauiFeatures.csproj",
         "packagesPath": "C:\\Users\\GiannCarlo.camilo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GiannCarlo.camilo\\source\\repos\\mauiFeatures\\obj\\",
+        "outputPath": "C:\\Users\\GiannCarlo.camilo\\Documents\\MauiProjects\\MauiAvailableFeatures\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
